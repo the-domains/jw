@@ -1,0 +1,28 @@
+name: Jonas W
+favicon: null
+layout_spectrum: 0.6336724597495049
+typography_spectrum: 0.1736949507612735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.02860420849174261
+  lightness: 0.564338247757405
+  saturation: 0.029338287888094783
+  rhythmicContrast: 0.05679972982034087
+purpose: []
