@@ -1,28 +1,40 @@
-name: Jonas W
 favicon: null
-layout_spectrum: 0.75622
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Jonas W
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 0
   brandColors:
     - '#ffffff'
     - '#121212'
     - '#ed544c'
     - '#fbc673'
     - '#999999'
-  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5340502
+analytics:
+  twitter: null
+  google: null
+  facebook: null
