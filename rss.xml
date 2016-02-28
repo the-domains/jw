@@ -4,7 +4,7 @@
         <description><![CDATA[Jonas W]]></description>
         <link>https://thegrid.ai/jw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 19:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 19:05:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/jw/68cc6c27-9a12-4cbf-8447-4de55dbc2fee/index.html</link>
             <guid isPermaLink="false">68cc6c27-9a12-4cbf-8447-4de55dbc2fee</guid>
             <pubDate>Sun, 28 Feb 2016 18:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86908ab5-88ce-43bd-8783-3af3f91f870f.png">]]></description>
-            <link>https://thegrid.ai/jw/634def25-648d-42da-a343-86cc79df9d59/index.html</link>
-            <guid isPermaLink="false">634def25-648d-42da-a343-86cc79df9d59</guid>
-            <pubDate>Sun, 28 Feb 2016 18:53:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
